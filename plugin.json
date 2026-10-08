@@ -1,0 +1,5 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "elevenflo",
+  "description": "Source-backed U.S. chapter 11 bankruptcy research: search cases, dockets and filings, read exact filing text with citations, and query published restructuring datasets through the ElevenFlo MCP server."
+}
